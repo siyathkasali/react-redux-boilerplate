@@ -1,0 +1,25 @@
+{
+  "name": "react-redux-boilerplate",
+  "version": "1.0.0",
+  "description": "'React Redux Sass eslint Boilerplate'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siyathkasali/react-redux-boilerplate.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "sass",
+    "bolierplate"
+  ],
+  "author": "Siyath Kasali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siyathkasali/react-redux-boilerplate/issues"
+  },
+  "homepage": "https://github.com/siyathkasali/react-redux-boilerplate#readme"
+}
